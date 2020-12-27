@@ -1,0 +1,2 @@
+将aliyun.oss.file.keyid、aliyun.oss.file.keysecret、spring.datasource.password
+对应的aliyunossfilekeyid、aliyunossfilekeysecret、springdatasourcepassword修改为自己的内容即可部署
